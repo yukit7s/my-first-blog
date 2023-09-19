@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-vvv*w&=)#$x9jz$0uu6^m3=(#k0n$r%1!6nz_1)otb1*-#cn(9
 DEBUG = True
 
 # ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com', 'hirakawa-django.azurewebsites.net']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com', 'hirakawa-django.azurewebsites.net', 'hirakawa-django-github-runner.azurewebsites.net']
 
 # Application definition
 
